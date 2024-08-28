@@ -7,7 +7,7 @@ sudo apt-get install -y gpiod
 ```
 pip install gpiod
 ```
-## Verificação da instalação da bibliotexa gpiod
+## Verificação da instalação da biblioteca gpiod
 ```
 gpiodetect
 ```
