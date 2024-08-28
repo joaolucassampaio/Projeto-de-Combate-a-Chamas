@@ -15,3 +15,7 @@ gpiodetect
 ```
 gpioinfo
 ```
+<br>
+
+> [!CAUTION]
+> O interpretador do python deve estar no diretório /usr/bin/python3
