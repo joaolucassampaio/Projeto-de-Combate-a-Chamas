@@ -15,6 +15,10 @@ gpiodetect
 ```
 gpioinfo
 ```
+## Executar programa no terminal
+```
+sudo python3 main.py
+```
 <br>
 
 > [!CAUTION]
